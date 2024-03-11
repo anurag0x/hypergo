@@ -5,6 +5,12 @@
 
 The objective of this project was to showcase my expertise in web development, particularly in React.js, TypeScript, and UI/UX design principles. I successfully built a functional web application—a simplified Video Player. This application empowers users to browse through a curated collection of video thumbnails, providing an interactive experience. By clicking on a thumbnail, users can seamlessly play the corresponding video and access essential information, including the title and description. This project not only demonstrates my technical proficiency in key web development technologies but also highlights my commitment to creating a user-friendly interface with a focus on a seamless and enjoyable user experience.
 
+## Video Presentation
+"https://drive.google.com/file/d/18v0MI57HsEskkjBYyCzy5lAnAeVnq0fR/view?usp=sharing"
+
+## Deployed Link
+"https://hypergo-anurag0x.vercel.app/"
+
 ## Features
 
 

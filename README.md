@@ -2,18 +2,31 @@
 
 ## Objective
 
-The goal of this project is to build a functional web application using React.js to demonstrate proficiency in fundamental web development concepts, Typescript, and creating a user-friendly UI/UX. The application is a simplified Video Player that allows users to view a list of predefined video thumbnails, click on a thumbnail to play the video, and see basic information about the video such as title and description.
+
+The objective of this project was to showcase my expertise in web development, particularly in React.js, TypeScript, and UI/UX design principles. I successfully built a functional web application—a simplified Video Player. This application empowers users to browse through a curated collection of video thumbnails, providing an interactive experience. By clicking on a thumbnail, users can seamlessly play the corresponding video and access essential information, including the title and description. This project not only demonstrates my technical proficiency in key web development technologies but also highlights my commitment to creating a user-friendly interface with a focus on a seamless and enjoyable user experience.
 
 ## Features
 
-- View a list of predefined video thumbnails.
-- Click on a thumbnail to play the video.
-- See basic information about the video such as title and description.
-- Pagination for fetching videos using API.
-- State management to handle video list and currently selected/playing video.
-- Ability to maintain like, dislike count, and comments.
-- Responsive design for various screen sizes and devices.
-- Responsive Skeleton loading for every page.
+
+I designed and developed a robust web application, integrating a plethora of features to enhance user engagement and usability:
+
+Predefined Video Thumbnails: Users can browse through a curated collection of video thumbnails, offering a preview of available content.
+
+Interactive Thumbnail Click: Upon clicking a thumbnail, users seamlessly initiate video playback, ensuring an immersive viewing experience.
+
+Video Information Display: Each video thumbnail is accompanied by essential details such as title and description, allowing users to gain insights into the content before viewing.
+
+Pagination for API Integration: Leveraging pagination, the application efficiently fetches videos from an external API, ensuring smooth and streamlined content delivery.
+
+State Management: The application implements robust state management techniques to handle the video list and maintain the currently selected or playing video, guaranteeing a seamless user experience.
+
+Engagement Features: Users can interact with videos by expressing their preferences through likes, dislikes, and comments, fostering community engagement and feedback.
+
+Responsive Design: The application boasts a responsive design that adapts seamlessly to various screen sizes and devices, ensuring optimal user experience across desktops, tablets, and mobile phones.
+
+Skeleton Loading: Employing responsive skeleton loading techniques, the application offers users a visually appealing and informative loading experience, maintaining user engagement during data retrieval processes.
+
+By incorporating these features, the application not only showcases my proficiency in web development technologies like React.js, TypeScript, and state management but also underscores my commitment to delivering a user-centric and engaging user interface.
 
 ## Technologies Used
 
